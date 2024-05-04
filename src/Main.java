@@ -39,5 +39,6 @@ public class Main {
         }
         double puntajeFinal = puntaje / 10;
         System.out.println("Puntaje promedio: " + puntajeFinal);
+        //comentario
     }
 }
